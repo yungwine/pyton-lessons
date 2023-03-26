@@ -11,7 +11,7 @@
 * [TonTools](https://github.com/yungwine/TonTools)
 
 
-## [LESSON 1](https://github.com/yungwine/pyton-lessons/tree/master/lesson-1) - [YouTube]()
+## [LESSON 1](https://github.com/yungwine/pyton-lessons/tree/master/lesson-1) - [YouTube](https://youtu.be/2Hk82Dhzcxs)
 
 1. Main libraries review
 2. Wallet creation, import and deployment
