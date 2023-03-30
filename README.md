@@ -19,4 +19,15 @@
 4. Internal message creation
 5. Contract Get-method parsing
 
-## [LESSON 2](https://github.com/yungwine/pyton-lessons/tree/master/lesson-2) - [Soon]()
+## [LESSON 2](https://github.com/yungwine/pyton-lessons/tree/master/lesson-2) - [YouTube](https://youtu.be/mX52vkejF1k)
+
+1. Cell creation
+2. Cell parsing by bits and [devdao's tonsdk](https://github.com/devdaoteam/tonsdk)
+3. Internal contract deployment
+4. Looking for archive liteservers
+5. Block parsing
+6. Last transactions parsing
+
+## [LESSON 3](https://github.com/yungwine/pyton-lessons/tree/master/lesson-3) - [Soon]()
+
+
