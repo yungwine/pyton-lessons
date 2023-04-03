@@ -15,21 +15,29 @@
 
 ## [LESSON 1](https://github.com/yungwine/pyton-lessons/tree/master/lesson-1) - [YouTube](https://youtu.be/2Hk82Dhzcxs)
 
-1. Main libraries review
-2. Wallet creation, import and deployment
-3. Counter contract deployment
-4. Internal message creation
-5. Contract Get-method parsing
+- Main libraries review
+- Wallet creation, import and deployment
+- Counter contract deployment
+- Internal message creation
+- Contract Get-method parsing
 
 ## [LESSON 2](https://github.com/yungwine/pyton-lessons/tree/master/lesson-2) - [YouTube](https://youtu.be/mX52vkejF1k)
 
-1. Cell creation
-2. Cell parsing by bits and [devdao's tonsdk](https://github.com/devdaoteam/tonsdk)
-3. Internal contract deployment
-4. Looking for archive liteservers
-5. Block parsing
-6. Last transactions parsing
+- Cell creation
+- Cell parsing by bits and [devdao's tonsdk](https://github.com/devdaoteam/tonsdk)
+- Internal contract deployment
+- Looking for archive liteservers
+- Block parsing
+- Last transactions parsing
 
-## [LESSON 3](https://github.com/yungwine/pyton-lessons/tree/master/lesson-3) - [Soon]()
+## [LESSON 3](https://github.com/yungwine/pyton-lessons/tree/master/lesson-3) - [YouTube](https://www.youtube.com/watch?v=eH53OnNGRy0)
 
+- Transaction status
+- Creation of unsuccessful transaction
+- Exit codes in transactions phases
+- Messages in transactions
+- Jettons transfers parsing
 
+## [LESSON 4](https://github.com/yungwine/pyton-lessons/tree/master/lesson-4) - [Soon]()
+
+- *NFT lesson* 
