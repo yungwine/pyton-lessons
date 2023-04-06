@@ -40,9 +40,16 @@
 
 ## [LESSON 4](https://github.com/yungwine/pyton-lessons/tree/master/lesson-4) - [YouTube](https://www.youtube.com/watch?v=SY83tiu-5cQ)
 
-- Deploy NFT Collection
-- Deploy single NFT
-- Deploy batch NFTs
+- NFT Collection deployment
+- Single NFT deployment
+- Batch NFTs deployment
 - NFT transfer
 
-## [LESSON 5](https://github.com/yungwine/pyton-lessons/tree/master/lesson-5) - [Soon]()
+## [LESSON 5](https://github.com/yungwine/pyton-lessons/tree/master/lesson-5) - [YouTube](https://www.youtube.com/watch?v=uZhAS0MCdqA)
+
+- NFT Collection parsing
+- NFT items parsing
+- Sale (auction) NFT SC parsing
+- All collection's items parsing
+
+## [LESSON 6](https://github.com/yungwine/pyton-lessons/tree/master/lesson-6) - [Soon]()
