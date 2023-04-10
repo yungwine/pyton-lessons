@@ -52,4 +52,11 @@
 - Sale (auction) NFT SC parsing
 - All collection's items parsing
 
-## [LESSON 6](https://github.com/yungwine/pyton-lessons/tree/master/lesson-6) - [Soon]()
+## [LESSON 6](https://github.com/yungwine/pyton-lessons/tree/master/lesson-6) - [YouTube](https://www.youtube.com/watch?v=QNcByRKNMQw)
+
+- Jetton minter deployment
+- Tokens mint
+- Jetton transfer
+- Jetton burn
+
+## [LESSON 7](https://github.com/yungwine/pyton-lessons/tree/master/lesson-7) - [Soon]()
