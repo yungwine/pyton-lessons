@@ -59,4 +59,10 @@
 - Jetton transfer
 - Jetton burn
 
-## [LESSON 7](https://github.com/yungwine/pyton-lessons/tree/master/lesson-7) - [Soon]()
+## [LESSON 7](https://github.com/yungwine/pyton-lessons/tree/master/lesson-7) - [YouTube](https://www.youtube.com/watch?v=0nDTVo8Z8ag)
+
+- Jetton contnet parsing (onchain and offchain)
+- Hashmaps reading
+- Jetton wallet parsing
+
+## [LESSON 7](https://github.com/yungwine/pyton-lessons/tree/master/lesson-8) - [Soon]()
