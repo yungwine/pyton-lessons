@@ -65,4 +65,10 @@
 - Hashmaps reading
 - Jetton wallet parsing
 
-## [LESSON 7](https://github.com/yungwine/pyton-lessons/tree/master/lesson-8) - [Soon]()
+## [LESSON 8](https://github.com/yungwine/pyton-lessons/tree/master/lesson-8) - [YouTube](https://www.youtube.com/watch?v=IiAF2QVzkqY)
+
+- Highload wallets
+- Hashmaps
+- Blockchain config parsing
+
+## [LESSON 9](https://github.com/yungwine/pyton-lessons/tree/master/lesson-9) - [Soon]()
