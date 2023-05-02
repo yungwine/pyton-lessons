@@ -71,4 +71,10 @@
 - Hashmaps
 - Blockchain config parsing
 
-## [LESSON 9](https://github.com/yungwine/pyton-lessons/tree/master/lesson-9) - [Soon]()
+## [LESSON 9](https://github.com/yungwine/pyton-lessons/tree/master/lesson-9) - [YouTube](https://www.youtube.com/watch?v=C21PMBo0m4U)
+
+- Multisig wallets
+- Offchain signatures
+- Onchain signatures
+
+## [LESSON 10](https://github.com/yungwine/pyton-lessons/tree/master/lesson-10) - [Soon]()
