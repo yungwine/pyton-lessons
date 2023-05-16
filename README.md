@@ -77,4 +77,9 @@
 - Offchain signatures
 - Onchain signatures
 
-## [LESSON 10](https://github.com/yungwine/pyton-lessons/tree/master/lesson-10) - [Soon]()
+## [LESSON 10](https://github.com/yungwine/pyton-lessons/tree/master/lesson-10) - [YouTube](https://www.youtube.com/watch?v=gu7TOkfn-50)
+
+- TON Node types
+- mytonctrl installation
+- Connection to your own liteserver
+- local toncenter installation 
